@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c5a5c39-9513-4488-940f-235fa532984a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Arquitecto.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Arquitecto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Empleado.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Empleado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/MaestroObra.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/MaestroObra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Obrero.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/out/production/TP.Empresa de Obra/com/company/Obrero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Arquitecto.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Arquitecto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/MaestroObra.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/MaestroObra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Obrero.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Obrero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Trabajo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP.Empresa de Obra/src/com/company/Trabajo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TP.Empresa de Obra" />
+  </component>
+  <component name="ProjectId" id="1buj6GwSIuXNnyGfPpwxEMwwqii" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c5a5c39-9513-4488-940f-235fa532984a" name="Default Changelist" comment="" />
+      <created>1589488695396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589488695396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
